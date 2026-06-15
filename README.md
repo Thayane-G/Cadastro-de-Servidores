@@ -4,7 +4,7 @@ Este projeto é um sistema simples de CRUD (Create, Read, Update, Delete) desenv
 
 ---
 
-## 📌 Funcionalidades
+## Funcionalidades
 
 - Cadastro de professores
 - Listagem de professores
@@ -14,7 +14,7 @@ Este projeto é um sistema simples de CRUD (Create, Read, Update, Delete) desenv
 
 ---
 
-## 💻 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - PHP (linguagem principal)
 - MySQL (banco de dados relacional)
@@ -24,7 +24,7 @@ Este projeto é um sistema simples de CRUD (Create, Read, Update, Delete) desenv
 
 ---
 
-## ⚙️ Como executar o projeto
+## Como executar o projeto
 
 1. Clone ou baixe o repositório
 2. Coloque os arquivos em um servidor local (como XAMPP)
@@ -35,7 +35,7 @@ Este projeto é um sistema simples de CRUD (Create, Read, Update, Delete) desenv
 
 ---
 
-## 🧠 Aprendizados
+## Aprendizados
 
 Durante o desenvolvimento deste projeto, pratiquei:
 
@@ -47,7 +47,7 @@ Durante o desenvolvimento deste projeto, pratiquei:
 
 ---
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 
 - `index.php` → listagem dos professores
 - `professor-create.php` → cadastro de professores
@@ -60,7 +60,7 @@ Durante o desenvolvimento deste projeto, pratiquei:
 
 ---
 
-## ![Preview do projeto]
+## !Preview do projeto
 
 
 <img width="1919" height="1025" alt="Captura de tela 2026-05-02 171538" src="https://github.com/user-attachments/assets/2aff5208-853c-4a7f-a26c-e35c03c83e8a" />
