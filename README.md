@@ -1,4 +1,4 @@
-# CRUD de Professores
+# Cadastro de Servidores
 
 Este projeto é um sistema simples de CRUD (Create, Read, Update, Delete) desenvolvido em PHP com integração ao MySQL. O objetivo do projeto foi praticar conceitos básicos de desenvolvimento web backend.
 
